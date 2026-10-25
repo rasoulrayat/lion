@@ -1,9 +1,11 @@
 {
  "id": "vo-part-c2",
- "files": [
+ "status": "done",
+ "fetched": [
   {
-   "url": "https://storage.googleapis.com/xi-backend/database/workspace/cf8ba6857e2c46e9a5c1492336e0402f/content_generation/mUDkhauFjCawTJZH2D6I/fy35298wJA979xb9RCwW/content.mp3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261025%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261025T094231Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=50838b3e42f0d9ec3830be35ff7c20a91d8b1f84bc825d7fb57160aa217d0a78350a61ac3c38a7839c4f188a66044d6a4c16733d0a3fe6e3464f2fb57d67fe452627d1afd386190164f536a34fb7b8b50a34597aa09911b5d5a1de5a1bdc23c334d0c99f5fb2e85611a1df3ab6f571763022218ce608c37b1f8d8e37b77d4c8d41d64d99b6b8bc74e21a88ab4ca658bac7883c1a446bad947d23b922a1f949ed31433388bd7d01dea0bc46df93013b760ea0e71ccf4bff243b07197d53ccd2f6fec7543aa351173404a9eec27207dfdb087b762ed8325233aa31addb0b7d88808b21b26b5c72680f5a6f3a8bd1df7932a2b39d0623290bc31b0966ebbceeff11",
-   "path": "lion/vo_c_take2.mp3"
+   "path": "lion/vo_c_take2.mp3",
+   "bytes": 169306,
+   "sha256": "cc348ceb55ecd6e736435c9337f58b6de43ff5103563b4ca2a966f7ee0b53fd5"
   }
  ]
 }
