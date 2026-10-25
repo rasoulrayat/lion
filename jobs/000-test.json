@@ -1,1 +1,11 @@
-{"id": "test-preview", "files": [{"url": "https://storage.googleapis.com/eleven-public-prod/database/workspace/674714e71f484a39a087edd41275690d/voices/Mn0jJ3FC9Ijz7lQe8ELI/5KtNgl46kqZelvqwyTdR.mp3", "path": "test/arash_preview.mp3"}]}
+{
+ "id": "test-preview",
+ "status": "done",
+ "fetched": [
+  {
+   "path": "test/arash_preview.mp3",
+   "bytes": 257681,
+   "sha256": "8d5577cd0950f12678f6351b5149245c0bd4d8cfc845d86c071a48d8c1411335"
+  }
+ ]
+}
