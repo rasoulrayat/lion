@@ -1,0 +1,13 @@
+{
+ "id": "vo-parts-bc",
+ "files": [
+  {
+   "url": "https://storage.googleapis.com/xi-backend/database/workspace/cf8ba6857e2c46e9a5c1492336e0402f/content_generation/yjeqjhTbjVg4fsOH7vbi/lnhkAtiqsiuKTXN6Iw0e/content.mp3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261025%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261025T093943Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=140938f56f8ef9f1c4756b6046cf23f50a8d05c540d181b248d01ddca034b150d582c002e309531914498bc2c25e2cf663adb5b7325e49e2889931a23509e55a22952a9e02d17724b7a55cf21bc1f39347d6c517a03cfe0c8373b5b8343593959343e0af1d8e536dca21ca55117def3c4638203c548a02c3672f3e299513129849bee4ee4587129bdc8b12d01c7546b8c1765be72218488a740cb67ca454d2dcf1b4a887f229def102a9a3cf186af454a911e25dc94f8b539bee3efdf05d747400e876f377482297b5ae9b885c0ba266464e834bce546867ea4de0dd7c28186a93c87d30b38635ac36046755a6cd18d33dda54ce09b06533f63dfba2a1ae7030",
+   "path": "lion/vo_b_take1.mp3"
+  },
+  {
+   "url": "https://storage.googleapis.com/xi-backend/database/workspace/cf8ba6857e2c46e9a5c1492336e0402f/content_generation/15p41A0aHcdQAT4tnPoS/dnIDjuK4TNZuC9cS8cuX/content.mp3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261025%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261025T094001Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=077fd4ad951e8917178e7c0b191b1252441ca3ee9e77949f9e70cd62786e355ef52a361253f9ffbc1cf09152d166103b349a5b47f8eccfb2d2f94cdaadaf9ed280d24bba624677c3c096c24b4be97a016398ee4417bbe78e4f7cb545591d57f676a832b95573dc4126963a9b509257d3dd850e4ad1dcb6c0386b0a9a5c1bf401f5912aaf7a5b282f187fcb119789397adc988b9cd08a786fb0f491416f66b1ea14a0edecb8396be7aa16c6256d50026282302a322fe463ed073c2fc727cebad34b6f89026c7aba329075d3311c81d334e4e6109902ca171c8abf2579e3f6da9537f9959f8f8dc12e04bc56cda50d366228f1345035c74761c52f0216c3e794d6",
+   "path": "lion/vo_c_take1.mp3"
+  }
+ ]
+}
